@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep Cinematic Palette -->
+    <color name="charcoal_black">#0A0B10</color>
+    <color name="graphite_gray">#1C1E26</color>
+    <color name="surface_dark">#252833</color>
+    <color name="white_premium">#F8F9FF</color>
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+
+    <!-- Infrastructure Intelligence Accents -->
+    <color name="infra_green">#00E676</color> <!-- Healthy -->
+    <color name="infra_orange">#FF9100</color> <!-- Warning -->
+    <color name="infra_red">#FF1744</color> <!-- Critical -->
+    <color name="electric_blue">#00B0FF</color> <!-- AI/Systems -->
+
+    <!-- Text Palette -->
+    <color name="text_high_emphasis">#FFFFFF</color>
+    <color name="text_medium_emphasis">#B0B3B8</color>
+    <color name="text_disabled">#686B6F</color>
+
+    <!-- Gradients & Glows -->
+    <color name="glow_blue">#4D00B0FF</color>
+    <color name="glow_green">#4D00E676</color>
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="charcoal_dark">#1A1A1B</color>
+    <color name="off_white">#F5F5F7</color>
+    <color name="accent_blue">#3498DB</color>
+</resources>

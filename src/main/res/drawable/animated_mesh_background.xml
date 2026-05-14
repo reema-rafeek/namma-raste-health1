@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="400dp"
+            android:height="800dp"
+            android:viewportWidth="400"
+            android:viewportHeight="800">
+            <path
+                android:name="grid_line_1"
+                android:pathData="M0,100 L400,100"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+            <path
+                android:name="grid_line_2"
+                android:pathData="M0,200 L400,200"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+            <path
+                android:name="grid_line_3"
+                android:pathData="M0,300 L400,300"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+            <path
+                android:name="grid_line_4"
+                android:pathData="M0,400 L400,400"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+             <path
+                android:name="grid_line_5"
+                android:pathData="M100,0 L100,800"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+            <path
+                android:name="grid_line_6"
+                android:pathData="M200,0 L200,800"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+            <path
+                android:name="grid_line_7"
+                android:pathData="M300,0 L300,800"
+                android:strokeColor="#1A00B0FF"
+                android:strokeWidth="1" />
+        </vector>
+    </aapt:attr>
+    <target android:name="grid_line_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathEnd"
+                android:duration="4000"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator" />
+        </aapt:attr>
+    </target>
+</animated-vector>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Namma-Raste Health</string>
+    <string name="splash_subtitle">Community Powered Road Monitoring</string>
+    <string name="onboarding_title_1">Rural Roads are Failing</string>
+    <string name="onboarding_desc_1">PMGSY roads are built, but lack of maintenance leads to quick degradation.</string>
+    <string name="onboarding_title_2">Community Powered Auditing</string>
+    <string name="onboarding_desc_2">Report minor cracks and water logging before they become major potholes.</string>
+    <string name="onboarding_title_3">Better Infrastructure for All</string>
+    <string name="onboarding_desc_3">Save public money and improve rural transport for farmers and students.</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="report_damage">Report Damage</string>
+    <string name="road_directory">ROAD DIRECTORY</string>
+    <string name="success_map">Success Map</string>
+    <string name="my_reports">My Reports</string>
+    <string name="contractor_profile">Contractor Profile</string>
+    <string name="health_score">Health Score</string>
+    <string name="specifications">SPECIFICATIONS</string>
+    <string name="contractor_label">CONTRACTOR</string>
+    <string name="maintenance_history">MAINTENANCE HISTORY</string>
+</resources>
