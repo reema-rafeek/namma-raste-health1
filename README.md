@@ -62,6 +62,22 @@ This transforms rural citizens into active participants in infrastructure mainte
 * UI Design: XML + Material Design
 * Architecture: MVVM (recommended)
 
+🏗️ System Architecture
+
+
+Citizen/User
+     ↓
+Android Application
+     ↓
+Road Damage Reporting Module
+     ↓
+Database Management System
+     ↓
+Road Health Dashboard
+     ↓
+Authority Monitoring System
+
+
 
 
 📁 Project Structure
