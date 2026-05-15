@@ -104,7 +104,7 @@ Namma-Raste-Health/
    * Emulator OR
    * Physical Android device
 
----
+
 
 🔹 Using APK File
 
